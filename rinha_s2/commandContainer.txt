@@ -2,4 +2,4 @@ sudo docker run -p 14000:5432 -v /web/projetos/rinha-2/pg:/var/lib/postgresql/da
 
 sudo docker container ps 
 
-sudo docker container stop 6d5b2828eb41eb76e34649a4ca25c66c4bfa16d19c3f24ccbc701c0cb6478500
+sudo docker container stop 
